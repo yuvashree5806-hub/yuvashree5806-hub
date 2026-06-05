@@ -103,9 +103,9 @@ Full-Stack Productivity Platform featuring:
 
 # 🤝 Let's Connect
 
-💼 LinkedIn: Your LinkedIn Link
+💼 LinkedIn: www.linkedin.com/in/m-yuvashree
 
-📧 Email: your-email@example.com
+📧 Email: yuvashree5806@gmail.com
 
 ⭐ "Consistency beats talent when talent doesn't stay consistent."
 
