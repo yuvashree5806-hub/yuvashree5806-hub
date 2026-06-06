@@ -48,28 +48,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-#  Featured Projects
-
-###  Student Planner
-Full-Stack Productivity Platform featuring:
-- Timetable Management
-- Task Scheduling
-- Reminders
-- Stopwatch
-- Timer
-- User Authentication
-
-### Django Blog Platform
-- Authentication
-- CRUD Operations
-- Database Integration
-
-###  Expense Tracker
-- Expense Management
-- Budget Tracking
-- Analytics Dashboard
-
----
 
 # Currently Exploring
 
