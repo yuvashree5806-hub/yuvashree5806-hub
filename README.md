@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Yuvashree</h1>
-<h3 align="center">B.Tech Computer Science Student | Backend Developer | Django Enthusiast</h3>
+<h3 align="center">B.Tech Computer Science Student | Backend Developer </h3>
 
 <p align="center">
    Building Full-Stack Applications <br>
