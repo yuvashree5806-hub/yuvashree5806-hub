@@ -1,25 +1,25 @@
-<h1 align="center">👋 Hey, I'm Yuvashree</h1>
+<h1 align="center"> Hey, I'm Yuvashree</h1>
 <h3 align="center">B.Tech Computer Science Student | Backend Developer | Django Enthusiast</h3>
 
 <p align="center">
-  🚀 Building Full-Stack Applications <br>
-  📚 Learning Django, Node.js & System Design <br>
-  🎯 Aspiring Software Engineer
+   Building Full-Stack Applications <br>
+  Learning Django, Node.js & System Design <br>
+  Aspiring Software Engineer
 </p>
 
 ---
 
-# 💫 About Me
+# About Me
 
-- 🎓 B.Tech in computer science and engineering
-- 💻 Passionate about Backend Development
-- 🌱 Currently learning Django, REST APIs, and Full-Stack Development
-- 🚀 Building real-world projects to strengthen development skills
-- 📈 Goal: Become a Software Engineer specializing in Backend Systems
+-  B.Tech in computer science and engineering
+-  Passionate about Backend Development
+-  Currently learning Django, REST APIs, and Full-Stack Development
+-  Building real-world projects to strengthen development skills
+-  Goal: Become a Software Engineer specializing in Backend Systems
 
 ---
 
-# 🛠️ Technologies & Skills
+# Technologies & Skills
 
 ### Languages
 
@@ -48,9 +48,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 📚 Student Planner
+###  Student Planner
 Full-Stack Productivity Platform featuring:
 - Timetable Management
 - Task Scheduling
@@ -59,48 +59,25 @@ Full-Stack Productivity Platform featuring:
 - Timer
 - User Authentication
 
-### 📝 Django Blog Platform
+### Django Blog Platform
 - Authentication
 - CRUD Operations
 - Database Integration
 
-### 💰 Expense Tracker
+###  Expense Tracker
 - Expense Management
 - Budget Tracking
 - Analytics Dashboard
 
 ---
 
-# 🎯 Currently Exploring
+# Currently Exploring
 
 - Django REST Framework
 - System Design Fundamentals
 - PostgreSQL
 - Deployment & DevOps
 - AI & Machine Learning
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yuvashree5806-hub&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yuvashree5806-hub&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvashree5806-hub&layout=compact&theme=tokyonight)
-
----
-
-# 🌱 2026 Goals
-
-- Build 10+ Full Stack Projects
-- Master Django Backend Development
-- Learn Cloud Deployment
-- Contribute to Open Source
-- Secure a Software Engineering Internship
-
----
-
 # 🤝 Let's Connect
 
 💼 LinkedIn: www.linkedin.com/in/m-yuvashree
